@@ -30,3 +30,4 @@ C:\Users\Nikhi\source\repos\WeatherAPI\WeatherAPI\obj\Debug\net8.0\refint\Weathe
 C:\Users\Nikhi\source\repos\WeatherAPI\WeatherAPI\obj\Debug\net8.0\WeatherAPI.pdb
 C:\Users\Nikhi\source\repos\WeatherAPI\WeatherAPI\obj\Debug\net8.0\WeatherAPI.genruntimeconfig.cache
 C:\Users\Nikhi\source\repos\WeatherAPI\WeatherAPI\obj\Debug\net8.0\ref\WeatherAPI.dll
+C:\Users\Nikhi\source\repos\WeatherAPI\WeatherAPI\obj\Debug\net8.0\WeatherAPI.sourcelink.json
